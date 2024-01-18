@@ -1,0 +1,6 @@
+circle: perimeter 188.49555921538757, area 2827.4333882308138
+circle: perimeter 188.49555921538757, area 2827.4333882308138
+triangle: perimeter 476.0725631642915, area 8750.0
+triangle: perimeter 470.2685304173323, area 7250.0
+rectangle: perimeter 400.0, area 10000.0
+triangle: perimeter 12000000000, area 60000000000000000000
